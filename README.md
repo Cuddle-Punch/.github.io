@@ -7,7 +7,7 @@ sign-in, no server, no tracking. Everything runs in your browser and stays on yo
 device. Point it at the official reference data, drop in your own homebrew, and have
 every stat block, weapon, and item a tap away while you run the game.
 
-**[Open Daggerhoarde](index.html)** — just open the page; it works offline once loaded.
+**[Open Daggerhoarde](https://daggerhoarde.cuddlepunch.lol/)** — just open the page; it works offline once loaded.
 
 ---
 
