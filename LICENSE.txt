@@ -7,7 +7,7 @@ This software is provided "as is", without warranty of any kind, express or impl
 
 -----------------------------------------------------------------------------
 
-COPYRIGHT NOTICE AND ATTRIBUTION:<br />
+COPYRIGHT NOTICE AND ATTRIBUTION:
 Data loaded within this application are separate from the software engine, and includes materials from the Daggerheart System Reference Document 2.0, © Critical Role, LLC. All rights reserved.
 
 Licensed under the Darrington Press Community Gaming License: https://darringtonpress.com/license/
